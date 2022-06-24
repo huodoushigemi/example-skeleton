@@ -1,0 +1,20 @@
+{
+  "name": "example-skeleton",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/huodoushigemi/example-skeleton.git",
+  "author": "2629878269 <2629878269@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@x-ui-vue3/skeleton": "^1.0.1",
+    "vue": "^3.2.8"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "vite": "^2.9.12"
+  }
+}
