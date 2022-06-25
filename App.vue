@@ -35,6 +35,9 @@ import Exmaple3 from './exmaple3.vue'
   .flex1 {
     flex: 1;
   }
+  label:active + input[type="checkbox"], input[type="checkbox"]:active {
+    box-shadow: 0 0 0 10px rgba(0, 0, 0, .1);
+  }
 </style>
 
 <style scoped>
