@@ -12,6 +12,7 @@ npm install
 # develop
 npm run dev
 ```
+## 效果图
 
 <img src="https://user-images.githubusercontent.com/41646242/175766367-84d99ec7-8346-45c8-9441-bc3dd7d51cb0.gif" width="400" />
 
