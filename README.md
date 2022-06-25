@@ -21,3 +21,5 @@ npm run dev
 <img src="https://user-images.githubusercontent.com/41646242/175766370-49f33278-0cd0-42c6-9ed3-216bbf9abd5e.gif" width="400" />
 
 <img src="https://user-images.githubusercontent.com/41646242/175766372-7691d4df-063f-4114-9ef8-57671c305cb3.gif" width="400" />
+
+![Record202206250010](https://user-images.githubusercontent.com/41646242/175770649-9f67808a-5765-4455-8461-a843ce37ba1e.gif)
